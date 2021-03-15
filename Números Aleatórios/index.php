@@ -19,7 +19,6 @@
                 color: #ffb003;
                 font-family: verdana;
             }
-            
             input[type=submit]{
                 width: 400;
                 height: 400;
